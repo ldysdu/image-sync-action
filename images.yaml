@@ -1,5 +1,6 @@
+gpustack/gpustack:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/gpustack/gpustack
 #containrrr/watchtower:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/containrrr/watchtower
-n8nio/n8n:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/n8nio/n8n
+#n8nio/n8n:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/n8nio/n8n
 #grafana/grafana:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/grafana/grafana
 #grafana/loki:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/grafana/loki
 #prom/prometheus:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/prom/prometheus
@@ -7,5 +8,5 @@ n8nio/n8n:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/n8nio/n8n
 #victoriametrics/victoria-metrics:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/victoria-metrics
 #victoriametrics/vmagent:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/vmagent
 #victoriametrics/vmalert:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/vmalert
-fatedier/frpc:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frpc
-fatedier/frps:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frps
+#fatedier/frpc:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frpc
+#fatedier/frps:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frps
