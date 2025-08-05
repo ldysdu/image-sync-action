@@ -3,8 +3,8 @@ name: Sync nginx images
 on:
   workflow_dispatch:
   schedule:
-    # every day at 7am & 7pm pacific
-    - cron: "0 2,14 * * *"
+    # every day at 0am & 12am UTC+8
+    - cron: "0 4,16 * * *"
 
 jobs:
   sync-images:
