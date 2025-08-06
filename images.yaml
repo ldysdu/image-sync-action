@@ -1,7 +1,8 @@
 gpustack/gpustack:latest: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/gpustack
 registry.cn-hangzhou.aliyuncs.com/xcmgrdc/gpustack:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/gpustack/gpustack
+n8nio/n8n:latest: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/n8n
+registry.cn-hangzhou.aliyuncs.com/xcmgrdc/n8n:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/n8nio/n8n
 containrrr/watchtower:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/containrrr/watchtower
-n8nio/n8n:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/n8nio/n8n
 grafana/grafana:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/grafana/grafana
 grafana/loki:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/grafana/loki
 prom/prometheus:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/prom/prometheus
