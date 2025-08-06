@@ -10,3 +10,5 @@ victoriametrics/vmagent:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriamet
 victoriametrics/vmalert:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/vmalert
 fatedier/frpc:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frpc
 fatedier/frps:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frps
+fatedier/frpc:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/fatedier/frpc
+fatedier/frps:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/fatedier/frps
