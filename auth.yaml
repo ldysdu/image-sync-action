@@ -1,3 +1,6 @@
 swr.cn-east-3.myhuaweicloud.com:
   password: ${PASS}
   username: ${USER}
+registry.cn-hangzhou.aliyuncs.com:
+  password: ${ACR_PASS}
+  username: ${ACR_USER}
