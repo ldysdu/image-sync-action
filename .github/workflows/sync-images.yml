@@ -21,3 +21,5 @@ jobs:
         env:
           USER: ${{ secrets.USER }}
           PASS: ${{ secrets.PASS }}
+          ACR_USER: ${{ secrets.ACR_USER }}
+          ACR_PASS: ${{ secrets.ACR_PASS }}
