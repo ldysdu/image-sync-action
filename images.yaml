@@ -1,9 +1,3 @@
-gpustack/gpustack:latest: 
- - registry.cn-hangzhou.aliyuncs.com/xcmgrdc/gpustack
- - swr.cn-east-3.myhuaweicloud.com/xcmg/gpustack/gpustack
-n8nio/n8n:latest: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/n8n
-registry.cn-hangzhou.aliyuncs.com/xcmgrdc/n8n:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/n8nio/n8n
-containrrr/watchtower:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/containrrr/watchtower
 grafana/grafana:latest,12.0.2: swr.cn-east-3.myhuaweicloud.com/xcmg/grafana/grafana
 grafana/loki:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/grafana/loki
 prom/prometheus:latest: swr.cn-east-3.myhuaweicloud.com/xcmg/prom/prometheus
@@ -11,10 +5,4 @@ prom/alertmanager:latest,v0.28.0: swr.cn-east-3.myhuaweicloud.com/xcmg/prom/aler
 victoriametrics/victoria-metrics:latest,v1.123.0: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/victoria-metrics
 victoriametrics/vmagent:latest,v1.123.0: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/vmagent
 victoriametrics/vmalert:latest,v1.123.0: swr.cn-east-3.myhuaweicloud.com/xcmg/victoriametrics/vmalert
-fatedier/frpc:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frpc
-fatedier/frps:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frps
-fatedier/frpc:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frpc
-fatedier/frps:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frps
-registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frpc:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frpc
-registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frps:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frps
 nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.3.0-ubuntu22.04: swr.cn-east-3.myhuaweicloud.com/xcmg/nvcr.io/dcgm-exporter
