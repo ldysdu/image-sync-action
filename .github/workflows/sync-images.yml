@@ -1,10 +1,10 @@
-name: Sync images
+name: Sync images - observability
 
 on:
   workflow_dispatch:
   schedule:
-    # every day at 0am & 12am UTC+8
-    - cron: "0 4,16 * * *"
+    # every day at 1am UTC+8
+    - cron: "0 17 * * *"
 
 jobs:
   sync-images:
