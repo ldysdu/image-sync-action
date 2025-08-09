@@ -17,3 +17,4 @@ fatedier/frpc:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frpc
 fatedier/frps:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frps
 registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frpc:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frpc
 registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frps:v0.63.0: swr.cn-east-3.myhuaweicloud.com/xcmg/fatedier/frps
+nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.3.0-ubuntu22.04: swr.cn-east-3.myhuaweicloud.com/xcmg/nvcr.io/dcgm-exporter
