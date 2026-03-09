@@ -1,6 +1,5 @@
 gpustack/gpustack:latest: 
  - registry.cn-hangzhou.aliyuncs.com/xcmgrdc/gpustack
- - swr.cn-east-3.myhuaweicloud.com/xcmg/gpustack/gpustack
  - mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/gpustack/gpustack
 n8nio/n8n:latest: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/n8nio/n8n
 containrrr/watchtower:latest: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/containrrr/watchtower
