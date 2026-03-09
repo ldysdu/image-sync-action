@@ -4,3 +4,6 @@ swr.cn-east-3.myhuaweicloud.com:
 registry.cn-hangzhou.aliyuncs.com:
   password: ${ACR_PASS}
   username: ${ACR_USER}
+mirror-d2sywk.swr-pro.myhuaweicloud.com
+  password: ${mirrorPASS}
+  username: ${mirrorUSER}
