@@ -4,7 +4,7 @@ gpustack/gpustack:latest:
  - mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/gpustack/gpustack
 n8nio/n8n:latest: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/n8nio/n8n
 containrrr/watchtower:latest: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/containrrr/watchtower
-fatedier/frpc:v0.63.0,latest: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/fatedier/frpc
-fatedier/frps:v0.63.0,latest: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/fatedier/frps
-fatedier/frpc:v0.63.0,latest: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frpc
-fatedier/frps:v0.63.0,latest: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frps
+fatedier/frpc:v0.63.0: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/fatedier/frpc
+fatedier/frps:v0.63.0: mirror-d2sywk.swr-pro.myhuaweicloud.com/docker.io/fatedier/frps
+fatedier/frpc:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frpc
+fatedier/frps:v0.63.0: registry.cn-hangzhou.aliyuncs.com/xcmgrdc/frps
