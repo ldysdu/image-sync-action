@@ -23,3 +23,5 @@ jobs:
           PASS: ${{ secrets.PASS }}
           ACR_USER: ${{ secrets.ACR_USER }}
           ACR_PASS: ${{ secrets.ACR_PASS }}
+          MIRRORUSER: ${{ secrets.MIRRORUSER }}
+          MIRRORPASS: ${{ secrets.MIRRORPASS }}
